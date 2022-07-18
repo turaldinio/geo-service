@@ -1,4 +1,4 @@
-package LocalizationServiceImplTest;
+package ru.netology.i18n.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

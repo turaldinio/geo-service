@@ -1,4 +1,4 @@
-package GeoServiceImplTest;
+package ru.netology.geo.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
